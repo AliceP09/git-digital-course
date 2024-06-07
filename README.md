@@ -5,3 +5,4 @@ Projeto da Trilha de Estudos Git e Versionamento - Santander Coders 2024
 
 * uso do comando git push
 * comando git pull
+* comando git fetch
